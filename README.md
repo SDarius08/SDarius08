@@ -1,10 +1,12 @@
+![Profile Views](https://komarev.com/ghpvc/?username=sdarius08&color=ECBF32&style=flat-square)
+
+<p align="center">
+   <a href="https://discord.com/users/252529552440426507" target="_blank" rel="nofollow">
+      <img src="https://lanyard-profile-readme.vercel.app/api/256517176930861057" alt="Discord Presence" align="center">
+   </a>
+</p>
+
 ### Hi there 👋
-
-<!--
-**SDarius08/SDarius08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +15,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+![Profile Stats](https://github-readme-stats.vercel.app/api?username=sdarius08&show_icons=true)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=sdarius08&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
