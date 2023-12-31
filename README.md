@@ -1,13 +1,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=sdarius08&color=ECBF32&style=flat-square)
 
-<p align="center">
-   <a href="https://discord.com/users/252529552440426507" target="_blank" rel="nofollow">
-      <img src="https://lanyard-profile-readme.vercel.app/api/256517176930861057" alt="Discord Presence" align="center">
-   </a>
-</p>
 
 ### Hi there 👋
-- 🌱 I’m currently learning **cybersecurity**
+- 🌱 I’m currently learning **Computer Engineer @ TUIASI**
 - ⚡ Fun fact: **Student Pilot ✈️**
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sdarius08&show_icons=true&locale=en&layout=compact" alt="hemantkumar76" /></p>
